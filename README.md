@@ -1,0 +1,9 @@
+# COMMANDS
+
+apt update
+apt upgrade
+apt install git -y
+git clone https://github.com/PRINCE-BRAND/BRUTE-FORCE
+cd BruteX
+chmod +x *
+bash setup.sh or ./setup.sh
